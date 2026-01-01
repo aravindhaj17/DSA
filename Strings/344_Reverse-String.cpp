@@ -1,6 +1,6 @@
 // LeetCode 344: Reverse String.
 // Difficulty: Easy
-// Topic: Array / Two Pointers
+// Topic: Array / Two Pointers.
 // Approach: Two Pointers (In-place)
 // Time Complexity: O(n)
 // Space Complexity: O(1)
