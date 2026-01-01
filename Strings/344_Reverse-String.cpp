@@ -1,4 +1,4 @@
-// LeetCode 344: Reverse String
+// LeetCode 344: Reverse String.
 // Difficulty: Easy
 // Topic: Array / Two Pointers
 // Approach: Two Pointers (In-place)
