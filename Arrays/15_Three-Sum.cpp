@@ -1,4 +1,4 @@
-// LeetCode 15: Three Sum
+// LeetCode 15: Three Sum.
 // Difficulty: Medium
 // Approach: Sorting + Two Pointers
 // Time Complexity: O(n^2)
