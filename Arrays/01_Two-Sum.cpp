@@ -1,5 +1,5 @@
-// LeetCode 1: Two Sum.
-// Difficulty: Easy.
+// LeetCode 1: Two Sum
+// Difficulty: Easy
 // Approach: Hash Map
 // Time Complexity: O(n)
 // Space Complexity: O(n)
