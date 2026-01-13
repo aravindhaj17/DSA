@@ -4,7 +4,7 @@
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
-#include <vector>.
+#include <vector>
 #include <unordered_map>
 using namespace std;
 
