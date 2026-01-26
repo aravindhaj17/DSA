@@ -1,5 +1,5 @@
 // LeetCode 217: Contains Duplicate
-// Difficulty: Easy
+// Difficulty: Easy.
 // Approach: Hash Set
 // Time Complexity: O(n)
 // Space Complexity: O(n)
