@@ -1,5 +1,5 @@
 // LeetCode 283: Move Zeroes
-// Difficulty: Easy
+// Difficulty: Easy.
 // Approach: Two Pointers
 // Time Complexity: O(n)
 // Space Complexity: O(1)
