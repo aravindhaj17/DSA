@@ -1,5 +1,5 @@
 // LeetCode 42: Trapping Rain Water
-// Difficulty: Hard.
+// Difficulty: Hard
 // Approach: Two Pointers (Optimal)
 // Time Complexity: O(n)
 // Space Complexity: O(1)
