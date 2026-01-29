@@ -1,6 +1,6 @@
 // Largest Element in an Array
 // Difficulty: Easy
-// Approach: Linear Traversal
+// Approach: Linear Traversal.
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
