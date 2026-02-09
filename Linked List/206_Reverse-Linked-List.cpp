@@ -1,7 +1,7 @@
 // LeetCode 206: Reverse Linked List
 // Approach: Iterative (Three Pointer Technique)
 // Time Complexity: O(n)
-// Space Complexity: O(1)
+// Space Complexity: O(1).
 
 class Solution {
 public:
