@@ -1,5 +1,5 @@
 // LeetCode 3: Longest Substring Without Repeating Characters
-// Difficulty: Medium.
+// Difficulty: Medium
 // Approach: Sliding Window + Hashing
 // Time Complexity: O(n)
 // Space Complexity: O(1)
