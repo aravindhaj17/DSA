@@ -1,4 +1,5 @@
-// LeetCode 977: Squares of a Sorted Array
+// LeetCode 977: Squares of a Sorted Array.
+
 // Difficulty: Easy
 // Approach: Two Pointers
 // Time Complexity: O(n)
