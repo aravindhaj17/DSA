@@ -1,4 +1,4 @@
-// LeetCode 26: Remove Duplicates from Sorted Array
+// LeetCode 26: Remove Duplicates from Sorted Array.
 // Difficulty: Easy
 // Approach: Two Pointers
 // Time Complexity: O(n)
