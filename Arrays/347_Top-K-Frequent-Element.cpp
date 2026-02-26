@@ -1,5 +1,5 @@
 // LeetCode 347: Top K Frequent Elements.
-// Difficulty: Medium
+// Difficulty: Medium.
 // Approach: Hash Map + Bucket Sort
 // Time Complexity: O(n)
 // Space Complexity: O(n)
