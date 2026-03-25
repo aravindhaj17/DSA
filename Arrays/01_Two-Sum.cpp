@@ -2,7 +2,7 @@
 // Difficulty: Easy
 // Approach: Hash Map.
 // Time Complexity: O(n)
-// Space Complexity: O(n).
+// Space Complexity: O(n)
 
 #include <vector>
 #include <unordered_map>
