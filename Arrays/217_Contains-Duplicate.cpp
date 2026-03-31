@@ -1,6 +1,6 @@
 // LeetCode 217: Contains Duplicate
 // Difficulty: Easy
-// Approach: Hash Set.
+// Approach: Hash Set
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
